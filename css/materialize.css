@@ -7576,7 +7576,8 @@ input[type=range]::-ms-thumb {
 }
 
 .sidenav li > a:hover {
-  background-color: rgba(0, 0, 0, 0.05);
+  color: white;
+  background-color: #43165C;
 }
 
 .sidenav li > a.btn, .sidenav li > a.btn-large, .sidenav li > a.btn-small, .sidenav li > a.btn-large, .sidenav li > a.btn-flat, .sidenav li > a.btn-floating {
